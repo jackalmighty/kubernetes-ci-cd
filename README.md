@@ -1,4 +1,5 @@
 #TESTUJEMY CZY DZIALA
+# I JESZCZE KOMENTARZE
 
 
 # Linux.com Kubernetes CI/CD Blog Series by Kenzan
